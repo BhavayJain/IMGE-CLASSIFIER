@@ -1,0 +1,15 @@
+body{
+
+    background :yellowgreen;
+
+}
+
+#camera{
+    border:2px dashed black;
+    width: 375px;
+    height: 300px;
+}
+
+#object_result_name , #object_result_accuracy , #object{ 
+    color: blue;
+}
